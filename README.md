@@ -1,4 +1,4 @@
-# Fact-Checking System with LLM and BM25
+# Fact-Checking System with LLM and BM25 (ON-GOING)
 
 This project implements a basic fact-checking system that leverages the BM25 retrieval algorithm for finding relevant claims and a Large Language Model (LLM) for generating a concise fact-checked response. It's designed to take a user query and determine the veracity of a related claim based on a preprocessed dataset.
 
